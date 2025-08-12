@@ -1,0 +1,61 @@
+{
+  "id": "R1M8Z5",
+  "account": "CW6059981439070571",
+  "transactions": [
+    {
+      "id": "LRMJKV5USGIO",
+      "amount_in_cents": 259258,
+      "fee_in_cents": 871
+    },
+    {
+      "id": "IRZQAKOIXNTM",
+      "amount_in_cents": 291172,
+      "fee_in_cents": 776
+    },
+    {
+      "id": "LZJJEGET1GHR",
+      "amount_in_cents": 391184,
+      "fee_in_cents": 563
+    },
+    {
+      "id": "9SKDGIGATJ9T",
+      "amount_in_cents": 379991,
+      "fee_in_cents": 603
+    },
+    {
+      "id": "E5R5UQPGB7R3",
+      "amount_in_cents": 365747,
+      "fee_in_cents": 966
+    },
+    {
+      "id": "CWBFUK9E1V2I",
+      "amount_in_cents": 210186,
+      "fee_in_cents": 503
+    },
+    {
+      "id": "QP49KWV08HHX",
+      "amount_in_cents": 274078,
+      "fee_in_cents": 389
+    },
+    {
+      "id": "GCAQVKIZZQY7",
+      "amount_in_cents": 82443,
+      "fee_in_cents": 245
+    },
+    {
+      "id": "WX7PTX63CFL0",
+      "amount_in_cents": 413148,
+      "fee_in_cents": 810
+    },
+    {
+      "id": "KEYZ7SRCBPLJ",
+      "amount_in_cents": 298528,
+      "fee_in_cents": 943
+    },
+    {
+      "id": "84U89YJB1QX6",
+      "amount_in_cents": 47981,
+      "fee_in_cents": 234
+    }
+  ]
+}

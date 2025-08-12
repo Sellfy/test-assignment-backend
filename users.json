@@ -1,5 +1,5 @@
 {
-  "items": [
+    "data": [
         "U7F9K2",
         "X3DA9Q",
         "R1M8Z5",
@@ -20,5 +20,10 @@
         "D8P3K6",
         "S4N6W1",
         "E0G5L2"
-    ]
+    ],
+    "pagination": {
+        "page": 1,
+        "total_pages" : 1,
+        "total_items": 20
+    }
 }
